@@ -1,12 +1,7 @@
+안녕하세요
 
+//자신을 표현하는 클래스 구현
 
-
-
-
-
-#include<iostream>
-#include<string>
-using namespace std;
 
 class Person {
 	string name, hobby;
