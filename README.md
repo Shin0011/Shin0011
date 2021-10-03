@@ -3,7 +3,10 @@
 //자신을 표현하는 클래스 구현
 
 
-class Person {
+
+
+class Person 
+{
 	string name, hobby;
 	int age;
 	int score;
