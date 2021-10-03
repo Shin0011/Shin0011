@@ -8,8 +8,7 @@
 
 
 
-
-,,,,
+~~~~
 class Person 
 {
 	string name, hobby;
@@ -35,4 +34,4 @@ int main()
 	}
 	Shin.Rest();
 }
-,,,,
+~~~~
